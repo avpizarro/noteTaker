@@ -17,5 +17,6 @@ module.exports = (app) => {
   app.delete("/api/notes/:id", function (req, res) {
     const id = parseInt(req.params.id);
     noteData = noteData.filter((item) => item.id != id);
+    return res.redirect('/');
   });
 };
