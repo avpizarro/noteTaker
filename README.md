@@ -34,3 +34,4 @@ App URL: https://glacial-refuge-08027.herokuapp.com/
   For further information please visit my GitHub page:
   https://github.com/avpizarro
   
+  :e-mail: avpizarro@live.com

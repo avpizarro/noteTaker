@@ -39,10 +39,10 @@ i:active {
 }
 
 .note-title {
-  height: 50px;
+  height: 70px;
   margin-top: 13px;
   font-size: 3rem;
-  line-height: 50px;
+  line-height: 70px;
 }
 
 .note-title:read-only,
